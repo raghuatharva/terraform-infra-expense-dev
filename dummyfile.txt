@@ -1,1 +1,1 @@
-Commit #12 on 2024-01-05T19:02:35: Add CloudWatch alarms for EC2
+Commit #13 on 2024-01-05T10:30:48: Set up Route 53 DNS records
