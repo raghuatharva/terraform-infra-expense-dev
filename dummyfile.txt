@@ -1,1 +1,1 @@
-Commit #32 on 2024-01-13T08:08:32: Add CloudTrail logging
+Commit #33 on 2024-01-14T02:49:31: Set up AWS Config rules
