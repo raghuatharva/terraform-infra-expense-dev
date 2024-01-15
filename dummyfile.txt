@@ -1,1 +1,1 @@
-Commit #36 on 2024-01-14T21:26:45: Configure VPN Gateway for on-prem
+Commit #37 on 2024-01-15T14:44:13: Add Bastion host setup
