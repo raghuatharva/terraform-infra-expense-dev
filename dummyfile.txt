@@ -1,1 +1,1 @@
-Commit #55 on 2024-01-21T00:42:22: Create EC2 instance module
+Commit #56 on 2024-01-22T08:36:12: Add IAM roles for EC2 instances
