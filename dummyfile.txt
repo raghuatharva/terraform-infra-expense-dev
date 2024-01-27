@@ -1,1 +1,1 @@
-Commit #68 on 2024-01-25T11:21:06: Set up VPC Peering connection
+Commit #69 on 2024-01-27T23:18:30: Add ECS cluster and task definitions
