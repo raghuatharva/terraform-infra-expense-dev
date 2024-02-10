@@ -1,1 +1,1 @@
-Commit #103 on 2024-02-11T23:46:32: Configure subnets for public and private zones
+Commit #104 on 2024-02-11T00:06:04: Add security groups for EC2 and RDS
