@@ -1,1 +1,1 @@
-Commit #104 on 2024-02-11T00:06:04: Add security groups for EC2 and RDS
+Commit #105 on 2024-02-11T17:38:12: Create EC2 instance module
