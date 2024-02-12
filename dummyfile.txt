@@ -1,1 +1,1 @@
-Commit #106 on 2024-02-12T03:49:00: Add IAM roles for EC2 instances
+Commit #107 on 2024-02-12T09:12:28: Configure RDS PostgreSQL instance
