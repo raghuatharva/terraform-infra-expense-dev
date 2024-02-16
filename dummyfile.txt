@@ -1,1 +1,1 @@
-Commit #120 on 2024-02-16T19:05:50: Configure ALB listener rules
+Commit #121 on 2024-02-16T14:46:35: Add CloudFront distribution for static site
