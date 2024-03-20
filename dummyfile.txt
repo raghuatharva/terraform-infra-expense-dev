@@ -1,1 +1,1 @@
-Commit #211 on 2024-03-19T07:31:03: Update Terraform version to 1.4.0
+Commit #212 on 2024-03-20T23:58:40: Add CloudWatch alarms for EC2
