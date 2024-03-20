@@ -1,1 +1,1 @@
-Commit #213 on 2024-03-20T19:18:47: Set up Route 53 DNS records
+Commit #214 on 2024-03-20T12:49:40: Add SNS topic for alerts
