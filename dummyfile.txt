@@ -1,1 +1,1 @@
-Commit #227 on 2024-03-25T19:43:59: Add CodeBuild project configuration
+Commit #228 on 2024-03-26T11:31:44: Configure API Gateway endpoints
