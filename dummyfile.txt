@@ -1,1 +1,1 @@
-Commit #235 on 2024-03-28T14:01:24: Add Elasticache Redis cluster
+Commit #236 on 2024-03-28T13:37:13: Configure VPN Gateway for on-prem
