@@ -1,1 +1,1 @@
-Commit #265 on 2024-04-10T11:37:49: Implement Lambda function for backups
+Commit #266 on 2024-04-10T11:22:30: Configure NAT Gateway for private subnet
