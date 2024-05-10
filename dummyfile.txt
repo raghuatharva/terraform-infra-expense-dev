@@ -1,1 +1,1 @@
-Commit #324 on 2024-05-10T22:01:07: Implement SSM Parameter Store usage
+Commit #325 on 2024-05-10T16:48:35: Add Secrets Manager integration
