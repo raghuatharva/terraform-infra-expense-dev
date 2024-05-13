@@ -1,1 +1,1 @@
-Commit #328 on 2024-05-11T02:52:51: Configure API Gateway endpoints
+Commit #329 on 2024-05-13T15:43:27: Add DynamoDB table with indexes
