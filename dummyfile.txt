@@ -1,1 +1,1 @@
-Commit #343 on 2024-05-22T05:30:50: Add EC2 instance user data scripts
+Commit #344 on 2024-05-22T04:58:11: Implement Terraform linting with tflint
