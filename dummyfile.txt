@@ -1,1 +1,1 @@
-Commit #341 on 2024-05-21T22:51:14: Add Terraform workspace configurations
+Commit #342 on 2024-05-21T08:17:07: Configure security group ingress/egress
