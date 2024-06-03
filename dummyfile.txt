@@ -1,1 +1,1 @@
-2024-07-24T18:50:06 - Tag EC2 instances with env
+2024-06-03T10:52:52 - Add lifecycle rule to S3 bucket
