@@ -1,1 +1,1 @@
-Commit #96 on 2024-08-20T00:04:33: Add Terraform state locking with DynamoDB
+Commit #97 on 2024-06-07T12:23:50: Configure IAM user policies
