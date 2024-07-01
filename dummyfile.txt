@@ -1,1 +1,1 @@
-2024-07-06T00:16:59 - Update Terraform output names
+2024-07-02T04:36:06 - Add logs to debug ECS rollout
