@@ -1,1 +1,1 @@
-Commit #69 on 2024-06-24T21:49:54: Add ECS cluster and task definitions
+Commit #70 on 2024-07-16T14:39:49: Configure ALB listener rules
