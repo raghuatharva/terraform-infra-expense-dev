@@ -1,1 +1,1 @@
-2024-07-05T02:58:10 - Remove unused security group
+2024-07-24T18:50:06 - Tag EC2 instances with env
