@@ -1,1 +1,1 @@
-2024-08-21T17:29:07 - Restructure Terraform modules
+2024-08-21T17:12:11 - Patch SSM access issue
