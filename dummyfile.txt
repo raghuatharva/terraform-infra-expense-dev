@@ -1,1 +1,1 @@
-Commit #16 on 2024-08-08T06:43:28: Configure NAT Gateway for private subnet
+Commit #17 on 2024-09-01T12:44:14: Add IAM policies for Lambda functions
