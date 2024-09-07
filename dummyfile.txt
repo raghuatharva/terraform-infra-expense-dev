@@ -1,1 +1,1 @@
-Commit #67 on 2024-08-04T15:01:28: Add IAM policies for Lambda functions
+Commit #68 on 2024-09-07T16:30:04: Set up VPC Peering connection
