@@ -1,1 +1,1 @@
-Commit #2 on 2024-09-19T20:48:23: Add VPC module with basic networking
+Commit #3 on 2024-09-10T17:14:44: Configure subnets for public and private zones
