@@ -1,1 +1,1 @@
-Commit #73 on 2024-12-04T13:57:48: Add EKS cluster provisioning
+Commit #74 on 2024-10-30T13:06:33: Implement SSM Parameter Store usage
