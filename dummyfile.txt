@@ -1,1 +1,1 @@
-Commit #99 on 2024-12-27T19:59:52: Add SSH key pair generation
+Commit #100 on 2024-11-01T16:12:57: Configure cost tags for resources
