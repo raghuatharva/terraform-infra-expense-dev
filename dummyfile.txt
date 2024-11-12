@@ -1,1 +1,1 @@
-2024-11-12T08:45:16 - Add logs to debug ECS rollout
+2024-11-12T19:07:15 - Tweak ALB target group settings
