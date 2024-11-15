@@ -1,1 +1,1 @@
-2024-11-15T01:44:49 - Cleanup unused Lambda layers
+2024-11-15T20:38:37 - Document README for setup
