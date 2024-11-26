@@ -1,1 +1,1 @@
-2024-11-27T02:33:53 - Enable cloudwatch log group retention
+2024-11-26T23:31:36 - Adjust IAM trust relationship
