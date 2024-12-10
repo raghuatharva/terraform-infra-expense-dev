@@ -1,1 +1,1 @@
-Commit #37 on 2024-08-26T21:40:20: Add Bastion host setup
+Commit #38 on 2024-12-10T13:10:48: Configure ACM certificates
