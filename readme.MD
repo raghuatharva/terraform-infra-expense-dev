@@ -5,13 +5,13 @@
 
 ---
 
-# 🚀 Terraform Infrastructure Deployment
+# Terraform Infrastructure Deployment
 
-## 📘 Overview
+##Overview
 
 This repository contains Terraform configurations to provision and manage a scalable, secure, and highly available infrastructure on AWS. The setup includes networking components, compute resources, storage solutions, and security configurations, adhering to Infrastructure as Code (IaC) principles.
 
-## 🧱 Architecture Components
+## Architecture Components
 
 * **VPC**: Custom Virtual Private Cloud with public and private subnets across multiple Availability Zones.
 * **EC2 Instances**: Provisioned in private subnets, managed via Auto Scaling Groups and Load Balancers.
@@ -21,7 +21,7 @@ This repository contains Terraform configurations to provision and manage a scal
 * **Security Groups**: Strict inbound and outbound rules to secure network traffic.
 * **Bastion Host**: Secure SSH access to private instances.
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```bash
 terraform-infra-dev/
@@ -45,7 +45,7 @@ terraform-infra-dev/
 └── README.md               # Project documentation
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -88,7 +88,7 @@ Terraform state is managed remotely using AWS S3 and DynamoDB to ensure consiste
 * **S3 Bucket**: Stores the state files securely.
 * **DynamoDB Table**: Manages state locking to prevent concurrent modifications.
 
-## 📦 Modules
+## Modules
 
 Each module is designed for reusability and encapsulates specific resources.
 
@@ -119,12 +119,12 @@ Each module is designed for reusability and encapsulates specific resources.
 * **Encryption**: Enables encryption at rest and in transit for all services.
 * **Secrets Management**: Integrate with AWS Secrets Manager for handling sensitive data.
 
-## 📈 Monitoring and Logging
+## Monitoring and Logging
 
 * **CloudWatch**: Collects logs and metrics for EC2 and RDS instances.
 * **Alarms**: Sets up alarms for critical metrics to notify stakeholders.
 
-## 🔄 CI/CD Integration
+## CI/CD Integration
 
 Integrate this Terraform setup with CI/CD tools like Jenkins or GitHub Actions to automate the deployment process.
 
