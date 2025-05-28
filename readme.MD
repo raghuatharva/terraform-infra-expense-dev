@@ -27,12 +27,16 @@ This repository contains Terraform configurations to provision and manage a scal
 terraform-infra-dev/
 ├── modules/                # Reusable Terraform modules
 │   ├── vpc/                # VPC and networking
-│   ├── ec2/                # EC2 instance configurations
+│   ├── ec2/                # EC2 instance configurations[ backend and frontend asg ]
 │   ├── rds/                # RDS database setup
 │   └── s3/                 # S3 bucket configurations
+│   ├── bastion/            #bastion host configuration
+│   ├── ec2/                # EC2 instance configurations
+│   ├── ALB/                # ACM SSL setup
+│   └── CDN/                # cloudfront confuguration
+│   ├── ACM/                # EC2 instance configurations
 ├── environments/           # Environment-specific configurations
-│   ├── dev/                # Development environment
-│   └── prod/               # Production environment
+│   ├── dev/                # Development environment              
 ├── scripts/                # Helper scripts for automation
 ├── main.tf                 # Root module to orchestrate resources
 ├── variables.tf            # Input variable definitions
